@@ -1,0 +1,11 @@
+[{
+  "id": 1,
+  "image": "lost.jpg",
+  "title": "LOST",
+  "description": "Lost is an American drama television series that originally aired on the American Broadcasting Company (ABC) from September 22, 2004, to May 23, 2010, over six seasons, comprising a total of 121 episodes. The show contains elements of supernatural and science fiction, and follows the survivors of a commercial jet airliner crash, flying between Sydney and Los Angeles, California, on a mysterious tropical island somewhere in the South Pacific Ocean. The story is told in a heavily serialized manner. Episodes typically feature a primary storyline set on the island, augmented by flashback or flashforward sequences which provide additional insight into the involved character(s)."
+}, {
+  "id": 2,
+  "image": "bandofbrothers.jpg",
+  "title": "Band of Brothers",
+  "description": "Band of Brothers is a 2001 American war drama miniseries based on historian Stephen E. Ambrose's 1992 non-fiction book of the same name. The executive producers were Steven Spielberg and Tom Hanks, who had collaborated on the 1998 World War II film Saving Private Ryan.[3] The episodes first aired in 2001 on HBO. The series won Emmy and Golden Globe awards in 2001 for best miniseries."
+}]
